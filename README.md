@@ -20,6 +20,12 @@ The documents and links in the repo:
 ### [Repo link](https://www.canva.com/design/DAGwJYlGyOI/yjGQoVm4_3kTikaem6WoWw/edit?ui=eyJBIjp7fX0)
 It is actually a link to canva page, where you could find the powerpoint document.
 
+<p align="center"> 
+          <img 
+               alt      = "Demo of meeting" 
+               width    = "600px" 
+               src      = "https://github.com/hxl6174/MentorMenteeScheme-CPEG07-meeting-summer02/blob/main/Attachments/demo.png" 
+               style    = "display: block; margin: 0 auto;" /></p>
 
 
 ### Attachments
