@@ -1,28 +1,41 @@
-# MentorMenteeScheme-CPEG07-meeting-summer02
-MentorMenteeScheme-CPEG07-meeting-summer02
+# Intro - The First Step in Journey
+<sub>MentorMenteeScheme-CPEG07-meeting-summer02</sub>
 
-⚠ this repository is still on working on 8/18/2025, please remove the message after finishing.
+## Details
+| Theme of meeting | Intro - The First Step in Journey |
+|-|-|
+| Date |20th August 2025|
+|Time| 13:00-14:00 |
+|Venue|LG4-09, Library, Main Building |
 
-This project is designed for the second meeting in summer, of COMP & CPEG Mentor-Mentee Scheme 2025-26. In this meeting, we aim to (something).
+## Summary
+This repository (repo) is designed for the second meeting in summer, of COMP & CPEG Mentor-Mentee Scheme 2025-26. 
+In this meeting, we aim to introduce content and target of the .
 
 The theme for this meeting is ().
 
-Overview
+## Repo Overview:
 
-0. Opening
-1. Introducing concepts
-2. asd
-3. Practicing and discussing
-4. Feedback
+The documents and links in the repo:
 
-Relevant tools:
+### [Repo link](https://www.canva.com/design/DAGwJYlGyOI/yjGQoVm4_3kTikaem6WoWw/edit?ui=eyJBIjp7fX0)
+It is actually a link to canva page, where you could find the powerpoint document.
+
+(here is the image.)
+
+### Attachments
+Some douments I mentioned in the meeting. 
+
+### Your Practice
+Mentees could start crating repo by trying coding for markdown file, which is useful when introducing your own repo in your career. practice00.md is a demo.
+
+### Relevant tools:
 
 -    [Typst](https://typst.app/)
 
--    [Google](https://www.google.com/)
+-    [Canva](https://www.canva.com/)
 
 
-**
-Note:
-
-The repository is for group discussion and learning, please do not expose private infomation that might be included in the repository. **
+### Note:
+- The COMP & CPEG mentor-mentee scheme is an activity held by CSE dept, aiming to organize meetings through the academic year 2025-26. if you have any questions or concerns about the activity, please contact CSE dept in HKUST.
+- The repository is for group discussion and learning, please do **NOT** expose private infomation that might be included in the repository.
