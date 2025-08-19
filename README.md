@@ -28,6 +28,9 @@ Some douments I mentioned in the meeting.
 ### Your Practice
 Mentees could start crating repo by trying coding for markdown file, which is useful when introducing your own repo in your career. practice00.md is a demo.
 
+### Summer Meeting 2.pptx
+The powerpoint document of the meeting.
+
 ### Relevant tools:
 
 -    [Typst](https://typst.app/)
