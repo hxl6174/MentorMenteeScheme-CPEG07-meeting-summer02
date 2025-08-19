@@ -10,9 +10,8 @@
 
 ## Summary
 This repository (repo) is designed for the second meeting in summer, of COMP & CPEG Mentor-Mentee Scheme 2025-26. 
-In this meeting, we aim to introduce content and target of the .
-
-The theme for this meeting is ().
+In this meeting, we aim to introduce content and target of the scheme, plus some tools that would not be taught in required courses (while that might be useful in career building), such as Github and Typst.
+The repo also includes some practice in "Your Practice" section, to let mentees get familiar with the tools.
 
 ## Repo Overview:
 
@@ -21,7 +20,7 @@ The documents and links in the repo:
 ### [Repo link](https://www.canva.com/design/DAGwJYlGyOI/yjGQoVm4_3kTikaem6WoWw/edit?ui=eyJBIjp7fX0)
 It is actually a link to canva page, where you could find the powerpoint document.
 
-(here is the image.)
+
 
 ### Attachments
 Some douments I mentioned in the meeting. 
